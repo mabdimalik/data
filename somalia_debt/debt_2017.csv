@@ -1,0 +1,28 @@
+﻿Creditor,Year,Total_Debt,Creditor_Category,Facility_Type
+International Monetary Fund,2017,340,Multilateral,IFI
+World Bank,2017,506,Multilateral,IFI
+AfDB Group,2017,138,Multilateral,IFI
+Arab Fund for Economic and Social Development,2017,155,Multilateral,IFI
+International Fund for Agricultural Development,2017,30,Multilateral,IFI
+OPEC Fund for International Development,2017,35,Multilateral,IFI
+Arab Monetary Fund,2017,286,Multilateral,IFI
+Islamic Development Bank,2017,13,Multilateral,IFI
+Denmark,2017,2,Bilateral,Paris Club
+France,2017,484,Bilateral,Paris Club
+Italy,2017,600,Bilateral,Paris Club
+Japan,2017,96,Bilateral,Paris Club
+Netherlands,2017,6,Bilateral,Paris Club
+Norway,2017,2,Bilateral,Paris Club
+Spain,2017,40,Bilateral,Paris Club
+United Kingdom,2017,81,Bilateral,Paris Club
+United States,2017,1004,Bilateral,Paris Club
+Russia,2017,148,Bilateral,Paris Club
+Algeria,2017,2,Bilateral,Non Paris
+Bulgaria,2017,11,Bilateral,Non Paris
+Iraq,2017,58,Bilateral,Non Paris
+Kuwait Fund and Central Bank,2017,171,Bilateral,Non Paris
+Libya,2017,5,Bilateral,Non Paris
+Romania,2017,3,Bilateral,Non Paris
+Saudi Arabia,2017,109,Bilateral,Non Paris
+Serbia,2017,2,Bilateral,Non Paris
+United Arab Emirates,2017,256,Bilateral,Non Paris
