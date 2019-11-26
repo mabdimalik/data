@@ -1,6 +1,6 @@
 # Suicide Attacks in Mogadishu
 
-This repo contains a dataset extracted from the Armed Conflict Location and Event Data [ACLED](acleddata.com/data). I have shortened the file to relevant fields, verified the events and added further fields and corrections including suicide target, number of suicide attacks/counts, estimate of number of persons injured per attack. 
+This repo contains data extracted from the Armed Conflict Location and Event Data [ACLED](acleddata.com/data). This processed version includes only  a few relevant fields, verified incidents and new fields or corrections to existing ones including suicide `target`, number of suicide attacks `counts`, estimated number of `injuries` per attack. 
 
 The data resulted in a visualization for this article [Nearly 4000 Killed, Wounded By Suicide Attacks in Mogadishu since 2012](https://abdimalik.com/nearly-4000-killed-wounded-by-suicide-attacks-in-mogadishu-since-2012/)
 
