@@ -4,7 +4,7 @@ This repo contains a dataset extracted from the Armed Conflict Location and Even
 
 The data resulted in a visualization for this article [Nearly 4000 Killed, Wounded By Suicide Attacks in Mogadishu since 2012](https://abdimalik.com/nearly-4000-killed-wounded-by-suicide-attacks-in-mogadishu-since-2012/)
 
-The csv file 'suicide-attacks-mogadishu` has the following structure:
+The csv file `suicide-attacks-mogadishu` has the following structure:
 
 Column Name | Definition
 ----| ----------
