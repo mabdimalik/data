@@ -7,7 +7,7 @@ The data resulted in a visualization for this article [Nearly 4000 Killed, Wound
 The csv file 'suicide-attacks-mogadishu` has the following structure:
 
 Column Name | Definition
-————| ——————————
+----| ----------
 `date` | Date of incident
 `year`| Year when the incident happened
 `target`| Per news sources, who was believed to have been the target of the attack
@@ -17,6 +17,6 @@ Column Name | Definition
 `district` | District where the attack took place
 `location` | Location of the attack, might not be exact. 
 `latitude` | ACLEDs estimate of the location’s latitude.
-`longitude’ |  ACLEDs estimate of the location’s longitude.
+`longitude` |  ACLEDs estimate of the location’s longitude.
 `notes` | ACLEDs incident report.
 
