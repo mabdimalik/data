@@ -6,8 +6,8 @@ The data resulted in a visualization for this article [Nearly 4000 Killed, Wound
 
 The csv file `suicide-attacks-mogadishu` has the following structure:
 
-Column Name | Definition
-----| ----------
+Field | Definition
+-------| --------------
 `date` | Date of incident
 `year`| Year when the incident happened
 `target`| Per news sources, who was believed to have been the target of the attack
